@@ -5,3 +5,4 @@
 * [2. Edit Text](/edittext)
 * [3. Form Login](/form)
 * [4. Bottom Tab](/bottom_tab)
+* [5. Timer](/timer)
