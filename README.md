@@ -1,4 +1,4 @@
-## This is my struggle to learn flutter. ^^
+## This is my struggle to learn flutter. :sparkles:
 
 ### List of my struggle:
 * [1. Hello World](/helloworld)
@@ -7,3 +7,4 @@
 * [4. Bottom Tab](/bottom_tab)
 * [5. Timer](/timer)
 * [6. Splash Screen](/splash_screen)
+* [7. List View](/listview)
