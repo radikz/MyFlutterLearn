@@ -9,3 +9,4 @@
 * [6. Timer](/timer)
 * [7. Splash Screen](/splash_screen)
 * [8. List View](/listview)
+* [9. Grid View](/gridview)
